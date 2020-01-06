@@ -1,0 +1,2 @@
+Um chat simples usando Flutter + Firebase para fins de aprendizados. Então o mesmo não apresenta nenhum arquitetura ainda e falta implementar algumas funcionalidades, as quais futuramente serão implementadas.
+Obs: Caso for usar, crie seu projeto no firebase e baixe google-services.json/GoogleService-Info.plist para usar sua API_KEY.
